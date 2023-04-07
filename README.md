@@ -19,7 +19,7 @@ Explanation of arguments:
 1. `seed`: Choice of seed to fix randomness in experiment.
 2. `algorithm`: Choice of algorithm. Possible options are `fedavg`, `fedexp`,`scaffold`, `scaffold(exp)`, `fedprox`, `fedprox(exp)`, `fedadam`, `fedadagrad`, `fedavgm`, `fedavgm(exp)`.
    
-3. `dataset`: Choice of dataset. Possible options are `CIFAR10`,`CIFAR100`,`EMNIST`,`CINIC10`.
+3. `dataset`: Choice of dataset. Possible options are `CIFAR10`,`CIFAR100`,`CINIC10`.
 
 4. `model`: Choice of neural network model. Possible options are `resnet18`, `CNN` (for CIFAR dataset), `EMNIST_CNN` (for EMNIST dataset).
 
